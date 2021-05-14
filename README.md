@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drumnickydrum
-- 👀 I’m interested in drums, music production, philosophy, motorcycles, retro video games, and code!
+- 👀 I’m interested in the intersection of AI, blockchain, and art.
 - 🌱 I’m currently learning full stack javascript development and beginning swift on iOS.
 - 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: drumnickydrum@gmail.com
