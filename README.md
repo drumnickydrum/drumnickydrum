@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drumnickydrum
 - 👀 I’m interested in the intersection of AI, blockchain, and art.
-- 🌱 I’m currently learning full stack javascript development and beginning swift on iOS.
+- 🌱 I’m a full-stack javascript development, about to explore Swift on iOS.
 - 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: drumnickydrum@gmail.com
