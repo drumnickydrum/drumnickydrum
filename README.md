@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drumnickydrum
-- 🌱 I’m a full-stack javascript developer looking to expand into the crypto world.
+- 🌱 I’m a full-stack javascript developer.
 - 👀 I’m interested in the intersection of AI, blockchain, and art.
 - 💞️ I’m looking to collaborate on anything creative!
 - 📫 How to reach me: drumnickydrum@gmail.com
