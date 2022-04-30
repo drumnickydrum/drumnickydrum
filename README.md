@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @drumnickydrum
-- 🌱 I’m a full-stack javascript developer.
-- 👀 I’m interested in the intersection of AI, blockchain, and art.
-- 💞️ I’m looking to collaborate on anything creative!
-- 📫 How to reach me: drumnickydrum@gmail.com
+I'm a full stack engineer who loves to build things, primarily in TypeScript and React.
+Say hi to drumnickydrum@gmail.com and we can chat about art, code, blockchain, and life!
